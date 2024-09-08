@@ -1,0 +1,2 @@
+
+C:/Users/19178/STM32Cube/Repository/Packs/STMicroelectronics/X-CUBE-AI/8.1.0/Utilities/windows/stm32ai validate --name network_1 -m D:/linux/MobileFaceNet_Pytorch/mobilefacenet_quantized1.onnx --type onnx --compression high --verbosity 1 --workspace C:\Users\19178\AppData\Local\Temp\mxAI_workspace1210524615996008461825737903937821 --output C:\Users\19178\.stm32cubemx\network_output --allocate-inputs -O ram --allocate-outputs
